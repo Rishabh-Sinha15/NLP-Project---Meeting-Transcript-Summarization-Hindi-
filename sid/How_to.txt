@@ -1,0 +1,4 @@
+how to use hindi_meeting_summarizer.txt:
+1.  python hindi_meeting_summarizer.py --transcript filename.txt --train-tokenizer --train
+
+2.  python hindi_meeting_summarizer.py --transcript filename.txt --infer
